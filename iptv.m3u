@@ -1,22 +1,4 @@
-Skip to content
- 
-Search Gists
-Search...
-All gists
-Back to GitHub
-@yasiralbeatiy
-yasiralbeatiy/beinsport.m3u
-Last active 3 hours ago • Report abuse
-Code
-Revisions
-3
-Stars
-111
-Forks
-32
-Clone this repository at &lt;script src=&quot;https://gist.github.com/yasiralbeatiy/a078d245888ce7eb892e04d120f1420c.js&quot;&gt;&lt;/script&gt;
-<script src="https://gist.github.com/yasiralbeatiy/a078d245888ce7eb892e04d120f1420c.js"></script>
-beinsport.m3u
+
 #EXTM3U
 #EXTINF:-1,beINSports-fr1
 http://iptv.am000.tv:8000/live/add17/add17/16.ts
